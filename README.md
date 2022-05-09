@@ -1,2 +1,2 @@
 # Text-Classification
-Multiclass and Multilabel Classification
+Multilabel Classification
