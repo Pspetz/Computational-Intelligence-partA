@@ -9,7 +9,7 @@ import re
 import pandas as pd
 import numpy as np
 import nltk
-#nltk.download('punkt')
+nltk.download('punkt')
 from nltk import word_tokenize,sent_tokenize
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import MinMaxScaler
